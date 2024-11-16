@@ -1,21 +1,21 @@
 *{
     font-family: Verdana, Arial, sans-serif;
     background-color: rgb(236, 235, 232);
+    color: rgb(144, 106, 96);
 }
 
 img{
-    width: max-content;
-    height: auto;
-    margin: auto;
+    width: 100%;
 }
 
 nav{
+    font-size: 20px;
     display: inline-block;
-    margin-top: -10px;
     font-weight: bold;
 }
 
 h1{
+    font-size: 35px;
     color: rgb(115, 85, 74);
 }
 
@@ -24,13 +24,17 @@ h2{
     background-color: rgb(115, 85, 74);
 }
 
+p{
+    color: rgb(144, 106, 96);
+}
+
 .underline-bold {
     font-weight: bold;
     text-decoration: underline;
 }
 
 .orange-color{
-    color: rgb(227, 99, 82);
+    color:rgb(227, 97, 32);
 }
 
 .la-nacion{
@@ -38,7 +42,7 @@ h2{
 }
 
 .pagina-doce{
-    color: rgb(227, 63, 88);
+    color: rgb(226, 56, 74);
 }
 
 .pie-de-pagina{
